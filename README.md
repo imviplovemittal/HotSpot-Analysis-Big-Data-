@@ -1,5 +1,8 @@
 # HotSpot-Analysis [Big Data]
 
+![image](https://user-images.githubusercontent.com/29403707/235309036-8384c0f8-39e1-4516-a9f5-50b9c7c7ac1d.png)
+
+
 ### Version history
 v1.1, Nov 16, Fix a bug in "Entrace.scala"
 v1.0, Nov 13, Initial version
