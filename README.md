@@ -1,4 +1,4 @@
-# HotSpot-Analysis-Big-Data
+# HotSpot-Analysis [Big Data]
 
 ### Version history
 v1.1, Nov 16, Fix a bug in "Entrace.scala"
